@@ -9,8 +9,9 @@ A simple calculator built with C# and .NET 8 using Visual Studio Code.
 
 ## 📸 Demo
 
-![demo](<img width="1193" height="707" alt="running project ss" src="https://github.com/user-attachments/assets/87af5321-7c5c-4088-b00a-59b9d300d281" />
-)
+![demo]
+<img width="1193" height="707" alt="running project ss" src="https://github.com/user-attachments/assets/a30b4c3b-76bc-4436-8040-583821826a92" />
+
 
 ## 🚀 How to Run
 
